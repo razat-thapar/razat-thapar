@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Razat Aggarwal</h1>
 <h3 align="center">An upcoming backend developer with strong Problem solving skills using Datastructres & Algorithms and currently upskilling myself using scaler! I'm transitioning from Technical support engineer to Java Backend Developer! </h3>
-<img align="right" alt="coding" width= "400" src="https://camo.githubusercontent.com/55b7cced822b1f0bd19a3b2f786554eccda448b9a518cf678bd6502b68141368/68747470733a2f2f6d6f62756c6f75732e73332e61702d736f7574682d312e616d617a6f6e6177732e636f6d2f5765622f696d616765732f6d6f62696c652f4865616465722f486972652d446576656c6f7065722d372e706e67">
-
+<img align="right" alt="coding" width= "400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<!- https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif ->
+<!-- 
+https://camo.githubusercontent.com/55b7cced822b1f0bd19a3b2f786554eccda448b9a518cf678bd6502b68141368/68747470733a2f2f6d6f62756c6f75732e73332e61702d736f7574682d312e616d617a6f6e6177732e636f6d2f5765622f696d616765732f6d6f62696c652f4865616465722f486972652d446576656c6f7065722d372e706e67
+-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razat-thapar&label=Profile%20views&color=0e75b6&style=flat" alt="ssom01-github" /> </p>
 
 - 🌱 I’m currently learning **Data structure, algorithm ,SQL and backend development!**
