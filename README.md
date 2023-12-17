@@ -7,15 +7,22 @@ https://camo.githubusercontent.com/55b7cced822b1f0bd19a3b2f786554eccda448b9a518c
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razat-thapar&label=Profile%20views&color=0e75b6&style=flat" alt="ssom01-github" /> </p>
 
-- 🌱 I’m currently learning **Data structure, algorithm ,SQL and backend development!**
+- 🌱 I’m currently learning **backend development!**
 
-- 📫 How to reach me **aggarwal091196@gmail.com**
+- 📫 How to reach me **razat.aggarwal@outlook.com** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/razat-aggarwal-43b015139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Razat Aggarwal" height="30" width="40" /></a>
 </p>
-
+<h3 align="left">Skills: </h3>
+<p align="left">
+<ul>
+  <li>Data Structures and algorithms</li>
+  <li>Core Java and concurrent programming using Java 8 or above</li>
+  <li>SQL programming using MySQL ,Oracle DBMS</li>
+</ul>
+</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
             <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
