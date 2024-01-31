@@ -63,6 +63,8 @@ https://camo.githubusercontent.com/55b7cced822b1f0bd19a3b2f786554eccda448b9a518c
             alt="windows" width="40" height="40" /> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer">          
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=razat-thapar&show_icons=true&locale=en&layout=compact" alt="Razat Aggarwal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=razat-thapar&show_icons=true&locale=en" alt="Razat Aggarwal" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=razat-thapar&show_icons=true&locale=en&layout=compact" alt="Razat Aggarwal" />
+  <img src="https://github-readme-stats.vercel.app/api?username=razat-thapar&show_icons=true&locale=en" alt="Razat Aggarwal" />
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=razat_aggarwal" alt="LeetCode Badges"/>
+</p>
