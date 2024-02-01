@@ -67,4 +67,5 @@ https://camo.githubusercontent.com/55b7cced822b1f0bd19a3b2f786554eccda448b9a518c
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=razat-thapar&show_icons=true&locale=en&layout=compact" alt="Razat Aggarwal" />
   <img src="https://github-readme-stats.vercel.app/api?username=razat-thapar&show_icons=true&locale=en" alt="Razat Aggarwal" />
   <img src="https://leetcode-badge-showcase.vercel.app/api?username=razat_aggarwal" alt="LeetCode Badges"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=razat-thapar" alt="Razat Aggarwal" />
 </p>
