@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Razat Aggarwal</h1>
-<h3 align="center">An upcoming backend developer with strong Problem solving skills using Datastructres & Algorithms and currently upskilling myself using scaler! I'm transitioning from Technical support engineer to Java Backend Developer! </h3>
+<h3 align="center">An upcoming backend developer with strong Problem solving skills using Datastructres & Algorithms and currently upskilling myself using scaler! </h3>
 <img align="right" alt="coding" width= "400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 <!- https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif ->
 <!-- 
