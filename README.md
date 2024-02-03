@@ -20,7 +20,8 @@ https://camo.githubusercontent.com/55b7cced822b1f0bd19a3b2f786554eccda448b9a518c
 <ul>
   <li>Data Structures and algorithms</li>
   <li>Core Java and concurrent programming using Java 8 or above</li>
-  <li>SQL programming using MySQL ,Oracle DBMS</li>
+  <li>SQL programming using MySQL ,Oracle DBMS & Schema Design</li>
+  <li>Design Patterns & UML diagrams</li>
 </ul>
 </p>
 <h3 align="left">Languages and Tools:</h3>
