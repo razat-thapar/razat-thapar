@@ -15,6 +15,12 @@ https://camo.githubusercontent.com/55b7cced822b1f0bd19a3b2f786554eccda448b9a518c
 <p align="left">
 <a href="https://linkedin.com/in/razat-aggarwal-43b015139/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Razat Aggarwal" height="30" width="40" /></a>
 </p>
+<h3 align="left">Projects: </h3>
+<p align="left">
+<ul>
+  <li><a href="https://github.com/razat-thapar/LearningLLDByDoing/tree/3ef9f9c5f3dd977cb647a1c6cb9fc27cde11ee3b/TicTacToe">TicTacToe Game with Undo & Replay Features</a></li>
+</ul>
+</p>
 <h3 align="left">Skills: </h3>
 <p align="left">
 <ul>
