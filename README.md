@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Razat Aggarwal</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Razat Aggarwal</h1>
 <h3 align="center">An upcoming backend developer with strong Problem solving skills using Datastructres & Algorithms and currently upskilling myself using scaler! </h3>
 <img align="right" alt="coding" width= "400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 <!- https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif ->
