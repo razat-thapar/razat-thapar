@@ -7,7 +7,7 @@ https://camo.githubusercontent.com/55b7cced822b1f0bd19a3b2f786554eccda448b9a518c
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razat-thapar&label=Profile%20views&color=0e75b6&style=flat" alt="ssom01-github" /> </p>
 
-- 🌱 I’m currently learning **System Design!**
+- 🌱 I’m currently learning **Revising DSA** , **Creative Coding using JS** , **AI for software engineers** , **System Design!**
 
 - 📫 How to reach me **razat.aggarwal@outlook.com** 
 
