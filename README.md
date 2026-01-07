@@ -19,6 +19,7 @@ https://camo.githubusercontent.com/55b7cced822b1f0bd19a3b2f786554eccda448b9a518c
 <p align="left">
 <ul>
   <li><a href="https://github.com/razat-thapar/LearningLLDByDoing/tree/3ef9f9c5f3dd977cb647a1c6cb9fc27cde11ee3b/TicTacToe">TicTacToe Game with Undo & Replay Features</a></li>
+  <li><a href="https://github.com/razat-thapar/sudoku">Sudoku 9x9 Game with backtracking , interactive desktop app</li>
 </ul>
 </p>
 <h3 align="left">Skills: </h3>
